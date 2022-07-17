@@ -1,0 +1,67 @@
+body{
+    background: url(../images/photo-1626186032295-5c0d509bbad8.jpeg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    line-height: 1.5;
+    color: white;
+}
+
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+
+.box1{
+    text-align: center;
+}
+
+.box1 h1{
+    text-transform: uppercase;
+}
+
+.box2{
+    font-weight: bolder;
+    font-size: large;
+}
+
+form input{
+    padding: 10px;
+    width: 70%;
+    margin-bottom: 20px;
+    background-color: beige;
+    font-size: 17px;
+}
+
+form label{
+    font-size: 19px;
+}
+
+.box3{
+    margin-bottom: 10px;
+}
+
+.box3 select{
+    font-size: 18px;
+}
+
+#button{
+    padding: 8px;
+}
+
+form a{
+    text-decoration: none;
+    color: white;
+}
+
+form button{
+    background:rgb(131, 175, 131);
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    width: 70%;
+    border: 0;
+}
